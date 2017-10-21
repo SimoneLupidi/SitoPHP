@@ -1,0 +1,16 @@
+img
+{width:20%}
+nav {display:block;} 
+nav li {display:inline;}
+aside {
+	float : left;
+	width:25%;
+}
+section {
+	float: right;
+	width:60%
+}
+footer {
+	display:block;
+	clear: both !important;
+}
